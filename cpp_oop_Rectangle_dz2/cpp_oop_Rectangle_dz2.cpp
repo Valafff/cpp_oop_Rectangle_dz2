@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//Добавлен на GitHub
+#include <iostream>
 #include <time.h>
 #include<Windows.h>//	Sleep;
 #include<conio.h>
